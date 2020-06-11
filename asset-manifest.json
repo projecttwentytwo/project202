@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project202/static/css/main.524081f3.chunk.css",
+    "main.css": "/project202/static/css/main.bb31f809.chunk.css",
     "main.js": "/project202/static/js/main.6a080c3e.chunk.js",
     "main.js.map": "/project202/static/js/main.6a080c3e.chunk.js.map",
     "runtime-main.js": "/project202/static/js/runtime-main.0b8206ff.js",
@@ -8,9 +8,9 @@
     "static/js/2.68781fbe.chunk.js": "/project202/static/js/2.68781fbe.chunk.js",
     "static/js/2.68781fbe.chunk.js.map": "/project202/static/js/2.68781fbe.chunk.js.map",
     "index.html": "/project202/index.html",
-    "precache-manifest.28a131046c0e1b1671c026b69a20c1d9.js": "/project202/precache-manifest.28a131046c0e1b1671c026b69a20c1d9.js",
+    "precache-manifest.23d427d066660bf6dc2c47606f7a23a6.js": "/project202/precache-manifest.23d427d066660bf6dc2c47606f7a23a6.js",
     "service-worker.js": "/project202/service-worker.js",
-    "static/css/main.524081f3.chunk.css.map": "/project202/static/css/main.524081f3.chunk.css.map",
+    "static/css/main.bb31f809.chunk.css.map": "/project202/static/css/main.bb31f809.chunk.css.map",
     "static/js/2.68781fbe.chunk.js.LICENSE.txt": "/project202/static/js/2.68781fbe.chunk.js.LICENSE.txt",
     "static/media/index.css": "/project202/static/media/FoundationSans-BlackEx.a07a74ae.otf",
     "static/media/Logo.png": "/project202/static/media/Logo.c17eaf61.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b8206ff.js",
     "static/js/2.68781fbe.chunk.js",
-    "static/css/main.524081f3.chunk.css",
+    "static/css/main.bb31f809.chunk.css",
     "static/js/main.6a080c3e.chunk.js"
   ]
 }
